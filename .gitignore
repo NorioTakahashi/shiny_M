@@ -1,0 +1,12 @@
+# .gitignore
+
+# data files
+
+# R files
+.Rhistory
+
+# Rproj (for Rstudio)
+shiny_M.Rproj
+
+# directories
+.Rproj.user/
